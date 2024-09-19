@@ -31,3 +31,5 @@ Verify that the Docker Engine installation is successful by running the hello-wo
 # sudo docker run hello-world
 
 ||||||||||||||| Docker Engine Installation End     ||||||||||||||||
+
+Reference Lock : https://phoenixnap.com/kb/fix-could-not-get-lock-error-ubuntu
